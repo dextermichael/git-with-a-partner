@@ -32,8 +32,10 @@ Accept Invite
 
 # 3. Git Pull from main branch to make sure your up to date with the main branch.   Grab the app.js from the main branch. 
 
-   git pull main branch 
+   git pull main branch
+    
    link js file
+
    console.log("Cloud Strife")
 
 # 4. Switch to the Main Branch  
