@@ -10,7 +10,7 @@ git clone https://github.com/dextermichael/git-with-a-partner.git
 
 # 2. Make New branch for new feature.
    
-    git checkout -b feat/flight
+    git checkout -b feat/limitbreak
     make app.js and index.html
     Type ! for html template
     link js file
@@ -26,6 +26,6 @@ git clone https://github.com/dextermichael/git-with-a-partner.git
 
 # 5. Merge your Feature branch to the main branch.
 
-   git merge feat/flight
+   git merge feat/limitbreak   
 
 
